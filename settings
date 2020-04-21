@@ -1,11 +1,8 @@
 {
-	"token": "<Discord Bot Token>",
-	"twitchClientID": "<Twitch Client ID>",
+	"token": "NzAyMDA5MTQwNjQ1NTkzMTAw.Xp50KA.kW5mwvR9DwReRMY8ySb4xg5BE-8",
 	"twitterKey": "<Twitter Key>",
 	"twitterSecret": "<Twitter Secret>",
 	"twitterBearerToken": "<Twitter Bearer Token>",
-	"youTubeApiKey": "<YouTube API Key>",
-	"facebookClient": "<Facebook Client ID>",
-	"facebookSecret": "<Facebook Client Secret>",
+	"youTubeApiKey": "AIzaSyBcd6-CcU7QZjlffN5rk1JlzZ8Irq9BM-Q",
 	"interval": 60000
 }
